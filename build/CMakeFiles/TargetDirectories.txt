@@ -1,0 +1,3 @@
+/home/mateus/UFJF/TesteCMake/build/CMakeFiles/rebuild_cache.dir
+/home/mateus/UFJF/TesteCMake/build/CMakeFiles/edit_cache.dir
+/home/mateus/UFJF/TesteCMake/build/CMakeFiles/Hello.dir
